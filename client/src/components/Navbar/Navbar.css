@@ -1,0 +1,48 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+h1 {
+  display: inline;
+  margin: auto;
+}
+.img-thumbnail{
+  width: 50px;
+    float: right;
+}
+.navbarName{
+  margin: auto
+}
+
+.dropdown-toggle::after{
+  vertical-align: -0.445em;
+  margin-right: 5px
+}
+
+@media only screen and (max-width:1200px) {
+  div.form-inline{
+    float: left !important;
+    margin-left: 5px
+  }
+  /* ul {
+    flex-direction: row !important;
+    padding-right: 10px !important; 
+}
+ul li{
+  padding-right: 10px !important; 
+} */
+
+}
+/* 
+@media only screen and (min-width:480px) {
+  div.form-inline{
+    float: left !important;
+  }
+  ul {
+    flex-direction: row !important;
+    padding-right: 10px !important; 
+}
+ul li{
+  padding-right: 10px !important; 
+}
+
+} */

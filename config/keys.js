@@ -1,0 +1,1 @@
+module.exports = "mongodb://duskat:duskat123@ds159129.mlab.com:59129/ccfinder"

@@ -1,0 +1,24 @@
+
+
+.detailsIcon li, .CardDetailsList li{
+    margin: 15px 0;
+}
+.detailsIcon i{
+    font-size: 35px;
+    color: #39d
+}
+
+.cadrDetailsHeading{
+    font-size: 20px;
+    font-weight: 400
+}
+@media only screen and (max-width:580px){
+    .cadrDetailsHeading{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+   /* div.col-3{
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    } */
+}

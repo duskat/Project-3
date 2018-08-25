@@ -1,0 +1,15 @@
+.card {
+    margin-right: 30px;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+.card-group{
+    margin-top: 30px;
+}
+
+.btn-primary a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}

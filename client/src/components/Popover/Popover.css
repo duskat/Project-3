@@ -1,0 +1,10 @@
+.arrow {
+    border: 2px solid  rgb(232, 232, 232);
+    left: 124px;
+    border-radius: 5px;
+    color: black;
+    bottom: calc((.5rem + 1px) * -1);
+}
+.popover-body{
+    font-size: 13px;
+}

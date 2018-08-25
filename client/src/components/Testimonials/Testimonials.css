@@ -1,0 +1,45 @@
+/* .carousel-control-next{
+    background: red;
+} */
+
+/* .carousel-control-next-icon{
+    background: red;
+} */
+
+/* .carousel-control-prev{
+    background: red
+}
+
+.testimonial-carousel .carousel-control.right:before{
+    content: "\203a";
+}
+.testimonial-carousel .carousel-control:before{
+    font-size: 5rem;
+    color: rgba(0,0,0,.6);
+    -webkit-transition: .4s;
+    -o-transition: .4s;
+    transition: .4s;
+}
+*, ::after, ::before{
+    box-sizing: border-box;
+} */
+
+/* .carousel-control-next{
+    background: red
+} */
+
+/* .carousel-control-next, .carousel-control-next{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+} */
